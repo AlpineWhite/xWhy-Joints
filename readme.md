@@ -14,15 +14,17 @@ Two posts on EACH SIDE will only have 6mm thread depth. These are NON-BEARING po
 ## Assembly Notes: 
 Minor grinding (.1mm or so) of screw lengths may be required for a couple fasteners depending on individual carriage tapped thread depth. Fasteners are specified for absolute maximum thread engagement.
 
-## BOM:
+## BOM
+
 |QTY|Item|Notes|
+|----|-|--|
 |2|Gates GT2 9mm Smooth Idler|If using smooth idlers and 9mm belts|
 |2|Gates GT2 9mm Toothed Idler|If using 9mm belts|
-|4|F695 Bearing|If Using bearings as smooth idlers for 6 or 9mm belts|
+|4|F695 Bearing|If using bearings as smooth idlers for 6 or 9mm belts|
 |2|695 Bearing|If using bearings as smooth idlers and 9mm belts|
 |8|MR95 Bearings|If wanting to replace the Gates idler bearings|
 |6|M5x16mm FHCS|If your extrusion or x beam has shallow holes/slots, you may need to remove .2mm. Built around 6mm slot depth with DIN-7991 specifying 3.1mm head height.|
 |8|M3x16mm FHCS|For pulley spacers (4x per side)|
 |8|M3x10mm FHCS|For non-pulley spacers (4x per side)|
-|8|M3x8mm FHCS|For attachment to Y axis.|
+|8|M3x8mm FHCS|For attachment to Y axis carriages|
 
