@@ -4,12 +4,10 @@
  - Mix and matchable configurations
 
 #### Important:
-Each spacer is asymmetric. One side (shorter) is for use with bearing stacks. The longer side is for use with gates idlers. RatRig idlers (12mm height) can be used if you add two M5x1mm shims above (on the top idler) and below (on the bottom idler) each idler OR if you use the shorter post side. 
-6mm idlers (10mm height) will require two M5x1mm shims above (on the top idler) and below (on the bottom idler) each idler on the short side of the post.
+Each spacer is asymmetric. One side (shorter) is for use with air (do not use it). The longer side is for use with gates idlers or bearing stacks. RatRig idlers (12mm height) can be used if you add two M5x1mm shims away from belt center separation. 
+6mm idlers (10mm height) will require multiple shims away from belt center separation (think of the center as the space between belts).
 
 The not-mid-post spacer is 2mm thick and 8mm diameter. Belt edges on Voron machines are 4mm apart. Most flanges are ~1mm thick. 
-
-Two posts on EACH SIDE will only have 6mm thread depth. These are NON-BEARING posts. The other two posts per side will have 12mm of thread depth so that users may choose longer screws to gain a more rigid material sandwich. 
 
 ## Assembly Notes: 
 Minor grinding (.1mm or so) of screw lengths may be required for a couple fasteners depending on individual carriage tapped thread depth. Fasteners are specified for absolute maximum thread engagement.
